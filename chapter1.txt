@@ -1,5 +1,9 @@
-Iam in Desktop of Stories Folder in Chapter1.txt file
+(1)  Iam in Desktop of Stories Folder in Chapter1.txt file
 
 git -a : To show hidden files
 git status: Untracked files
-git add fie.txt: to Track changes in file
+git add <fie_Name>.txt: to Track changes in file
+git add . : to Commit all files in Curent Folder
+
+git commit -m "Initial Commit"
+git log: TO see what commit we change using this command
